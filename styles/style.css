@@ -42,7 +42,7 @@ nav ul li a {
 nav ul li a.home{
   color: #96cbf3;
 }
-nav ul li :nth-child(1) a, nav ul li:nth-child(7) a, nav ul li:nth-child(8) a, nav ul li:nth-child(9) a, nav ul li:nth-child(10) a{
+nav ul li:nth-child(7) a, nav ul li:nth-child(8) a, nav ul li:nth-child(9) a, nav ul li:nth-child(10) a{
   color:#96cbf3;
 }
 nav ul li a:hover {
