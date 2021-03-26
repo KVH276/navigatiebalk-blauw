@@ -10,8 +10,9 @@ Deze oefening werd op Github geplaatst zoals gevraagd.
 
 1.  index.html
 2.  style.css (in mapje styles)
-3.  Readme.md
-4.  gitignore
+3.  mapje icons
+4.  Readme.md
+5.  gitignore
 
 ### Surge link
 
